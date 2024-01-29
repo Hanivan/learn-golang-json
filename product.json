@@ -1,0 +1,6 @@
+{
+  "id": "P0001",
+  "name": "apel",
+  "price": 2000,
+  "image_url": "http://localhost:8080/img/apel.png"
+}
